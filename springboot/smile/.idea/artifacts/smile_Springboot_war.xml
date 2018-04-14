@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="smile_Springboot:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="smile_Springboot-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="smile_Springboot:war exploded" />
-    </root>
-  </artifact>
-</component>
