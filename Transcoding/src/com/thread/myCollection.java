@@ -1,4 +1,4 @@
-package thread;
+﻿package thread;
 
 
 import java.sql.*;
@@ -14,7 +14,7 @@ public class myCollection {
     //数据库驱动对象
     public static final String DRIVER = "oracle.jdbc.driver.OracleDriver";
     //数据库连接地址(数据库名)jdbc:oracle:thin:@ip:1521:liferpt
-    public static final String URL = "jdbc:oracle:thin:@10.135.100.105:1521:liferpt";
+    public static final String URL = "jdbc:oracle:thin:@127.0.0.1:1521:liferpt";
     //登陆名
     public static final String USER = "dmuser";
     //登陆密码
